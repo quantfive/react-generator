@@ -13,5 +13,5 @@ generate-react-file.sh classname
 -r create a redux file
 ```
 
-Using as an alias
+Using as an alias is recommended:
 `alias grf="/path/to/generate-react-file.sh`
